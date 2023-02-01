@@ -1,3 +1,3 @@
 # yamdb_final
 ## Статус workflow:
-https://github.com/alenalezzhova/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![Статус workflow](https://github.com/alenalezzhova/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
